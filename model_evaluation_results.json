@@ -1,0 +1,89 @@
+{
+  "models": [
+    {
+      "model_name": "random_forest",
+      "cv_folds": 5,
+      "targets": {
+        "calories": {
+          "MAE": 128.92,
+          "RMSE": 167.64,
+          "R2": 0.8844
+        },
+        "protein": {
+          "MAE": 16.37,
+          "RMSE": 22.66,
+          "R2": 0.7231
+        },
+        "carbs": {
+          "MAE": 28.84,
+          "RMSE": 39.15,
+          "R2": 0.7723
+        },
+        "fats": {
+          "MAE": 6.98,
+          "RMSE": 10.38,
+          "R2": 0.8999
+        }
+      },
+      "average_r2": 0.8199,
+      "average_rmse": 59.96
+    },
+    {
+      "model_name": "xgboost",
+      "cv_folds": 5,
+      "targets": {
+        "calories": {
+          "MAE": 125.62,
+          "RMSE": 164.01,
+          "R2": 0.8893
+        },
+        "protein": {
+          "MAE": 14.79,
+          "RMSE": 19.64,
+          "R2": 0.792
+        },
+        "carbs": {
+          "MAE": 27.73,
+          "RMSE": 36.9,
+          "R2": 0.7978
+        },
+        "fats": {
+          "MAE": 6.8,
+          "RMSE": 9.56,
+          "R2": 0.915
+        }
+      },
+      "average_r2": 0.8485,
+      "average_rmse": 57.53
+    },
+    {
+      "model_name": "lightgbm",
+      "cv_folds": 5,
+      "targets": {
+        "calories": {
+          "MAE": 120.54,
+          "RMSE": 154.64,
+          "R2": 0.9016
+        },
+        "protein": {
+          "MAE": 15.62,
+          "RMSE": 20.9,
+          "R2": 0.7646
+        },
+        "carbs": {
+          "MAE": 25.74,
+          "RMSE": 33.62,
+          "R2": 0.8321
+        },
+        "fats": {
+          "MAE": 8.82,
+          "RMSE": 13.74,
+          "R2": 0.8246
+        }
+      },
+      "average_r2": 0.8307,
+      "average_rmse": 55.72
+    }
+  ],
+  "best_model": "xgboost"
+}

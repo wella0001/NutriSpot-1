@@ -1,0 +1,699 @@
+Age,Gender,Height,Weight,Activity Level,Fitness Goal,Dietary Preference,Daily Calorie Target,Protein,Carbohydrates,Fat
+25,Male,180,80,Moderate,Lose weight,High protein,2000,120,250,60
+32,Female,165,65,Light,Lose weight,Vegan,1600,80,200,40
+48,Male,175,95,Sedentary,Maintain weight,Vegan,2200,100,300,65
+55,Female,160,70,High,Lose weight,High protein,2500,140,350,80
+62,Male,170,85,Sedentary,Maintain weight,Vegan,2000,80,250,55
+68,Female,155,60,Light,Maintain weight,Vegan,1800,70,220,45
+28,Male,190,100,Moderate,Build muscle,High protein,3000,180,350,80
+35,Female,170,75,High,Build muscle,Vegan,2400,120,300,60
+42,Male,185,110,Moderate,Build muscle,Vegan,3200,160,400,85
+58,Female,168,78,Sedentary,Maintain weight,Vegan,1900,75,230,50
+25,Male,180,80,Light,Lose weight,High protein,2000,120,250,60
+32,Female,165,65,Moderate,Build muscle,Vegan,2200,100,300,70
+48,Male,175,95,Sedentary,Maintain weight,Vegan,2400,100,350,80
+55,Female,160,70,Moderate,Lose weight,High protein,1800,100,200,50
+62,Male,170,85,High,Build muscle,Vegan,3000,150,400,100
+28,Female,172,60,Light,Build muscle,Vegan,2000,100,250,60
+35,Male,185,90,High,Lose weight,High protein,2500,150,300,80
+40,Female,168,75,Moderate,Maintain weight,Vegan,2200,100,300,70
+22,Male,190,100,Light,Build muscle,High protein,2800,160,350,90
+58,Female,155,68,Sedentary,Lose weight,Vegan,1600,80,180,40
+24,Female,165,55,Light,Lose weight,High protein,1800,100,250,50
+38,Male,180,80,Moderate,Build muscle,High protein,2800,160,350,80
+55,Female,160,70,Sedentary,Lose weight,Vegan,1600,80,200,40
+62,Male,175,95,Moderate,Lose weight,High protein,2200,120,280,60
+28,Female,170,65,High,Build muscle,Vegan,2400,140,320,70
+45,Male,185,100,Light,Lose weight,High protein,2000,110,250,50
+68,Female,155,60,Sedentary,Maintain weight,Vegan,1400,70,180,35
+32,Male,190,90,High,Build muscle,High protein,3000,180,400,90
+58,Male,170,85,Moderate,Lose weight,Vegan,1900,100,240,50
+22,Female,160,50,Light,Lose weight,Vegan,1500,80,200,40
+25,Female,165,60,Light,Lose weight,High protein,1800,80,200,60
+38,Male,180,85,Moderate,Build muscle,Vegan,2800,150,250,80
+55,Female,160,65,Sedentary,Maintain weight,Vegan,1600,65,180,50
+42,Male,190,95,High,Build muscle,High protein,3200,200,300,100
+62,Female,155,58,Sedentary,Lose weight,Vegan,1400,55,150,40
+28,Male,175,70,Moderate,Build muscle,High protein,2500,130,220,70
+31,Female,170,75,Light,Lose weight,Vegan,1700,70,190,50
+58,Male,185,90,Moderate,Maintain weight,High protein,2400,100,240,70
+22,Female,168,55,High,Build muscle,Vegan,2200,110,200,60
+45,Male,182,80,Light,Lose weight,High protein,2000,90,220,60
+25,Male,180,80,Moderate,Lose weight,High protein,2200,120,250,60
+32,Female,165,65,Light,Build muscle,Vegan,2000,100,200,60
+55,Male,175,90,Sedentary,Maintain weight,Vegan,2000,80,250,50
+68,Female,160,75,Light,Lose weight,High protein,1800,80,180,50
+28,Male,185,95,High,Build muscle,High protein,3000,160,350,80
+38,Female,170,70,Moderate,Lose weight,Vegan,1800,80,200,50
+62,Male,170,85,Sedentary,Maintain weight,High protein,2200,80,270,60
+45,Female,168,60,High,Build muscle,Vegan,2400,120,280,70
+22,Female,172,55,Moderate,Lose weight,Vegan,1800,80,200,50
+58,Male,178,98,Sedentary,Maintain weight,High protein,2000,80,250,50
+25,Male,180,85,Light,Lose weight,High protein,2000,120,250,65
+32,Female,165,60,Moderate,Build muscle,Vegan,2200,100,300,70
+48,Male,175,95,High,Maintain weight,High protein,2800,150,350,90
+55,Female,160,70,Sedentary,Lose weight,Vegan,1600,80,200,50
+28,Male,185,90,Moderate,Build muscle,Vegan,2600,130,350,80
+62,Female,155,65,Light,Lose weight,High protein,1800,90,220,60
+35,Female,170,75,High,Build muscle,Vegan,2400,110,320,75
+22,Male,190,80,Moderate,Lose weight,Vegan,2100,100,270,65
+58,Male,178,100,Sedentary,Maintain weight,High protein,2400,120,300,75
+40,Female,168,72,Light,Build muscle,Vegan,2000,90,250,65
+25,Male,180,80,Moderate,Build muscle,High protein,2800,160,350,80
+32,Female,165,60,Light,Lose weight,Vegan,1800,100,220,50
+55,Male,175,90,Sedentary,Maintain weight,High protein,2200,120,250,60
+28,Female,170,65,High,Build muscle,Vegan,2400,140,300,70
+62,Female,160,70,Light,Lose weight,High protein,1600,80,180,40
+21,Male,190,95,Moderate,Build muscle,High protein,3000,180,400,90
+35,Female,168,55,Sedentary,Lose weight,Vegan,1500,80,160,40
+68,Female,155,65,Light,Maintain weight,Vegan,1700,80,190,50
+25,Female,165,60,Light,Lose weight,High protein,1800,100,200,60
+32,Male,180,85,Moderate,Build muscle,High protein,2800,180,300,80
+48,Female,170,75,Sedentary,Maintain weight,Vegan,2000,80,220,70
+55,Male,175,90,Moderate,Build muscle,Vegan,2500,160,280,70
+62,Female,160,65,Light,Lose weight,Vegan,1600,80,180,50
+28,Male,190,100,High,Build muscle,High protein,3200,200,350,90
+35,Female,168,55,Sedentary,Lose weight,Vegan,1500,70,170,50
+42,Male,185,95,Moderate,Maintain weight,Vegan,2400,150,260,70
+21,Female,172,58,Light,Lose weight,High protein,1700,90,190,60
+58,Male,178,80,Sedentary,Maintain weight,Vegan,2100,70,230,70
+25,Male,180,80,Moderate,Lose weight,High protein,2000,120,250,60
+38,Female,165,65,Sedentary,Maintain weight,Vegan,1800,80,220,60
+62,Male,175,90,Light,Build muscle,High protein,2500,180,300,80
+45,Female,170,75,High,Lose weight,Vegan,2200,100,280,60
+58,Male,178,85,Sedentary,Maintain weight,High protein,2200,100,270,70
+22,Female,160,55,Moderate,Build muscle,Vegan,2000,100,250,60
+68,Male,170,70,Light,Lose weight,High protein,1800,80,220,60
+30,Female,168,60,High,Build muscle,Vegan,2400,120,300,80
+55,Female,165,78,Sedentary,Maintain weight,Vegan,1900,80,230,60
+28,Male,185,100,Moderate,Build muscle,High protein,2800,160,350,100
+25,Female,165,60,Light,Lose weight,High protein,1800,100,200,60
+32,Male,180,85,Moderate,Build muscle,High protein,2800,180,350,80
+55,Female,160,70,Sedentary,Lose weight,Vegan,1600,80,180,50
+40,Male,190,95,High,Build muscle,Vegan,3200,160,400,90
+62,Male,175,80,Moderate,Maintain weight,High protein,2400,140,280,70
+28,Female,170,55,Sedentary,Lose weight,Vegan,1500,70,160,40
+38,Female,168,65,Light,Maintain weight,Vegan,2000,90,220,60
+58,Male,178,85,Moderate,Build muscle,Vegan,2800,150,350,80
+22,Male,185,90,High,Build muscle,High protein,3000,170,380,80
+45,Female,172,75,Sedentary,Lose weight,Vegan,1700,80,190,50
+28,Female,165,55,Light,Lose weight,High protein,1800,75,200,50
+55,Male,180,90,Moderate,Maintain weight,Vegan,2500,90,300,70
+32,Female,170,60,High,Build muscle,Vegan,2400,100,350,60
+22,Male,190,85,Sedentary,Lose weight,High protein,2000,80,250,55
+62,Female,160,70,Moderate,Maintain weight,Vegan,1800,70,220,50
+25,Male,185,95,Light,Build muscle,High protein,2800,120,380,80
+40,Female,175,75,High,Lose weight,Vegan,2000,80,250,55
+38,Male,178,80,Sedentary,Maintain weight,Vegan,2200,85,280,65
+20,Female,168,50,Light,Build muscle,High protein,2200,90,300,60
+58,Male,175,85,Moderate,Maintain weight,Vegan,2300,80,300,70
+25,Male,175,75,Moderate,Lose weight,High protein,2200,150,250,60
+38,Female,165,60,Light,Maintain weight,Vegan,1800,100,200,50
+55,Male,180,90,Sedentary,Lose weight,High protein,1800,120,200,40
+62,Female,160,70,Sedentary,Maintain weight,Vegan,1600,80,180,40
+28,Female,170,65,High,Build muscle,High protein,2500,180,300,80
+32,Male,185,85,Moderate,Lose weight,Vegan,2000,140,220,50
+68,Male,170,80,Light,Lose weight,High protein,1600,100,180,40
+45,Female,165,65,High,Build muscle,Vegan,2300,150,280,70
+72,Female,155,55,Sedentary,Maintain weight,High protein,1400,70,160,30
+21,Male,190,95,Moderate,Lose weight,High protein,2400,160,280,60
+25,Male,180,80,Moderate,Lose weight,High protein,2200,120,250,60
+30,Female,165,65,Light,Build muscle,Vegan,2000,100,200,60
+55,Male,175,90,Sedentary,Lose weight,High protein,1800,90,180,50
+22,Female,170,55,High,Build muscle,Vegan,2500,130,300,70
+60,Female,155,60,Moderate,Maintain weight,Vegan,1600,70,160,40
+28,Male,190,100,High,Lose weight,High protein,2800,150,350,80
+35,Female,160,50,Light,Build muscle,Vegan,1800,90,180,50
+48,Male,185,95,Moderate,Maintain weight,High protein,2200,110,220,60
+65,Male,170,75,Sedentary,Lose weight,High protein,1500,70,150,40
+19,Female,168,58,High,Build muscle,Vegan,2300,120,280,60
+25,Male,180,85,Moderate,Lose weight,High protein,2200,120,250,60
+38,Female,165,68,Light,Maintain weight,Vegan,1800,80,220,50
+55,Male,175,95,Sedentary,Lose weight,Vegan,1900,85,200,45
+22,Female,160,55,High,Build muscle,High protein,2500,150,300,75
+62,Female,168,72,Sedentary,Maintain weight,Vegan,1700,75,180,40
+30,Male,190,100,Moderate,Build muscle,High protein,3000,180,350,90
+28,Female,170,65,Light,Lose weight,Vegan,1600,70,180,45
+40,Male,185,90,High,Lose weight,High protein,2500,130,280,70
+21,Female,168,58,Light,Maintain weight,Vegan,1800,75,200,50
+58,Male,178,88,Sedentary,Lose weight,High protein,1800,80,200,50
+25,Female,165,58,Moderate,Lose weight,High protein,1800,100,200,50
+32,Male,180,85,Light,Build muscle,High protein,2500,150,300,70
+55,Female,160,70,Sedentary,Lose weight,Vegan,1500,80,150,40
+40,Male,190,95,Moderate,Maintain weight,Vegan,2200,120,250,60
+68,Female,155,62,Sedentary,Lose weight,Vegan,1400,70,130,35
+28,Male,175,78,High,Build muscle,High protein,3000,180,350,80
+35,Female,170,65,Light,Maintain weight,Vegan,1900,90,200,55
+52,Male,185,100,High,Build muscle,Vegan,2800,160,300,80
+22,Female,168,55,Moderate,Lose weight,Vegan,1600,80,180,40
+47,Male,178,80,Sedentary,Maintain weight,High protein,2100,110,230,60
+28,Female,165,60,Light,Lose weight,High protein,1800,100,200,60
+35,Male,180,80,Moderate,Maintain weight,Vegan,2500,100,300,80
+55,Female,160,75,Sedentary,Lose weight,Vegan,1500,75,150,40
+62,Male,175,90,Moderate,Lose weight,High protein,2200,120,250,70
+22,Female,170,55,High,Build muscle,High protein,2400,150,300,80
+40,Male,185,100,Light,Build muscle,Vegan,2800,120,350,90
+68,Female,155,65,Sedentary,Maintain weight,High protein,1800,80,200,60
+70,Male,170,85,Sedentary,Lose weight,Vegan,1700,80,180,50
+33,Female,168,70,High,Maintain weight,High protein,2200,100,250,70
+25,Male,190,95,Moderate,Build muscle,Vegan,2500,120,300,80
+25,Male,180,80,Moderate,Lose weight,High protein,2200,120,200,60
+55,Female,165,70,Sedentary,Maintain weight,Vegan,1800,80,250,50
+32,Male,190,95,High,Build muscle,High protein,3000,160,350,80
+68,Female,170,65,Light,Lose weight,Vegan,1500,70,180,40
+42,Male,185,100,High,Lose weight,High protein,2500,140,220,70
+58,Female,160,55,Sedentary,Maintain weight,Vegan,1600,60,200,40
+35,Male,178,85,Light,Lose weight,Vegan,2000,100,180,50
+72,Male,175,75,Sedentary,Maintain weight,Vegan,1700,70,210,40
+48,Female,168,68,Moderate,Maintain weight,High protein,1900,80,230,50
+25,Male,180,85,Moderate,Lose weight,High protein,2200,150,250,70
+32,Female,165,60,Sedentary,Lose weight,Vegan,1800,80,200,60
+55,Female,160,75,Light,Maintain weight,Vegan,1900,85,220,65
+40,Male,185,95,High,Build muscle,High protein,3000,200,350,100
+28,Female,170,70,Moderate,Build muscle,Vegan,2400,140,280,80
+62,Male,175,80,Light,Maintain weight,High protein,2100,110,240,70
+35,Female,168,65,Moderate,Lose weight,Vegan,1900,90,220,65
+22,Male,190,90,High,Build muscle,High protein,3200,220,380,110
+48,Female,172,78,Sedentary,Maintain weight,Vegan,2000,95,230,70
+21,Male,183,82,Moderate,Build muscle,Vegan,2800,170,320,90
+25,Male,180,80,Moderate,Lose weight,High protein,2200,120,250,60
+32,Female,165,65,Light,Maintain weight,Vegan,1800,80,220,50
+58,Male,175,95,Sedentary,Lose weight,High protein,1800,100,200,50
+28,Female,170,70,High,Build muscle,Vegan,2500,150,300,70
+62,Female,160,75,Sedentary,Lose weight,Vegan,1600,70,180,40
+45,Male,185,105,Moderate,Lose weight,High protein,2000,110,220,60
+21,Female,168,55,Light,Build muscle,Vegan,2000,100,250,60
+68,Male,170,85,Sedentary,Maintain weight,High protein,1800,80,200,50
+35,Female,172,68,High,Build muscle,Vegan,2400,140,280,70
+55,Female,158,60,Sedentary,Lose weight,Vegan,1500,60,160,40
+25,Female,165,55,Light,Lose weight,High protein,1800,70,180,50
+58,Male,180,90,Moderate,Maintain weight,Vegan,2500,90,250,70
+32,Female,170,65,Sedentary,Lose weight,Vegan,1500,60,150,40
+62,Male,175,85,High,Maintain weight,High protein,3000,120,300,80
+28,Female,160,50,Light,Build muscle,Vegan,2000,80,200,60
+45,Male,185,100,Moderate,Lose weight,High protein,2200,100,220,60
+68,Female,162,60,Sedentary,Maintain weight,Vegan,1800,70,180,50
+35,Male,190,80,High,Build muscle,High protein,3200,140,320,90
+21,Female,172,58,Light,Lose weight,Vegan,1700,65,170,45
+55,Male,178,82,Moderate,Maintain weight,Vegan,2400,90,240,70
+25,Male,180,85,Moderate,Lose weight,High protein,2000,120,250,60
+32,Female,165,60,Light,Maintain weight,Vegan,1800,80,220,50
+55,Male,175,90,Sedentary,Lose weight,High protein,1800,100,200,50
+68,Female,160,70,Sedentary,Maintain weight,Vegan,1600,70,180,40
+28,Male,190,100,High,Build muscle,High protein,3000,180,350,80
+42,Female,170,75,Moderate,Lose weight,Vegan,1500,80,180,40
+38,Male,185,95,Light,Build muscle,High protein,2800,160,300,70
+52,Female,165,65,Sedentary,Lose weight,Vegan,1400,70,150,30
+22,Female,170,55,High,Build muscle,Vegan,2500,120,280,60
+48,Male,175,80,Moderate,Maintain weight,High protein,2200,100,250,60
+25,Male,180,85,Moderate,Lose weight,High protein,2200,120,250,60
+38,Female,165,68,Sedentary,Maintain weight,Vegan,1800,80,200,50
+55,Male,175,90,Light,Lose weight,High protein,2000,100,220,55
+62,Female,160,75,Sedentary,Lose weight,Vegan,1600,70,180,45
+28,Male,190,100,High,Build muscle,High protein,3000,180,350,80
+32,Female,170,65,Moderate,Build muscle,Vegan,2000,100,220,55
+68,Male,170,80,Light,Maintain weight,High protein,1800,80,200,50
+21,Female,165,55,High,Build muscle,Vegan,2200,100,250,60
+45,Male,185,95,Moderate,Lose weight,High protein,2000,100,220,55
+70,Female,155,60,Sedentary,Maintain weight,Vegan,1400,60,160,40
+25,Female,165,58,Moderate,Lose weight,High protein,1800,80,200,60
+32,Male,180,90,Light,Build muscle,Vegan,2500,120,300,80
+55,Female,160,65,Sedentary,Lose weight,Vegan,1500,60,150,40
+48,Male,185,105,High,Build muscle,High protein,3200,160,400,100
+38,Male,175,75,Moderate,Lose weight,Vegan,2000,90,220,70
+21,Female,170,60,Light,Build muscle,High protein,2200,100,250,80
+58,Male,178,80,Sedentary,Maintain weight,High protein,2000,80,200,60
+70,Female,162,68,Sedentary,Lose weight,Vegan,1400,50,140,40
+42,Male,190,100,High,Build muscle,Vegan,3000,150,350,90
+25,Male,180,85,Moderate,Lose weight,High protein,2200,120,250,60
+62,Female,165,70,Light,Maintain weight,Vegan,1800,70,200,50
+38,Male,190,95,High,Build muscle,High protein,3000,180,350,80
+45,Female,170,65,Sedentary,Lose weight,Vegan,1600,80,180,40
+22,Female,160,55,Moderate,Lose weight,Vegan,1800,70,200,50
+58,Male,175,80,Moderate,Maintain weight,High protein,2000,100,220,60
+30,Male,185,90,High,Build muscle,High protein,2800,160,300,70
+28,Female,170,60,Sedentary,Lose weight,Vegan,1500,70,160,40
+68,Female,155,60,Light,Maintain weight,Vegan,1700,60,180,40
+42,Male,180,80,High,Build muscle,High protein,2600,150,280,70
+25,Male,180,85,Moderate,Lose weight,High protein,2000,125,250,60
+32,Female,165,60,Light,Maintain weight,Vegan,1800,90,225,50
+58,Male,175,95,Sedentary,Lose weight,High protein,1800,115,225,55
+28,Female,170,70,High,Build muscle,Vegan,2500,150,300,80
+62,Female,160,75,Sedentary,Lose weight,Vegan,1600,80,200,40
+40,Male,185,90,Moderate,Build muscle,High protein,2800,175,350,90
+35,Female,168,55,Light,Maintain weight,High protein,1900,100,230,60
+22,Male,190,100,High,Lose weight,Vegan,2200,130,275,70
+65,Male,170,80,Sedentary,Maintain weight,High protein,1700,95,210,50
+48,Female,163,65,Light,Lose weight,Vegan,1500,75,185,40
+25,Male,185,85,Moderate,Lose weight,High protein,2200,150,250,60
+38,Female,165,65,Light,Build muscle,Vegan,2000,120,200,50
+62,Female,160,70,Sedentary,Maintain weight,Vegan,1800,80,220,50
+45,Male,190,95,High,Build muscle,High protein,3000,200,350,80
+28,Female,170,58,Moderate,Lose weight,High protein,1800,100,200,50
+55,Male,175,80,Sedentary,Lose weight,High protein,1800,110,220,50
+22,Female,168,62,Light,Build muscle,Vegan,2000,100,250,50
+30,Male,180,78,Moderate,Build muscle,High protein,2500,180,300,70
+68,Male,170,75,Sedentary,Maintain weight,High protein,1600,80,180,40
+35,Female,175,72,High,Lose weight,Vegan,2000,120,240,60
+25,Female,165,55,Light,Lose weight,High protein,1800,80,200,60
+32,Male,180,85,Moderate,Build muscle,High protein,2800,150,300,80
+55,Female,160,68,Sedentary,Lose weight,Vegan,1500,70,150,40
+28,Male,190,95,High,Build muscle,Vegan,3200,180,400,100
+62,Male,175,80,Light,Maintain weight,High protein,2200,100,250,60
+21,Female,170,60,Moderate,Lose weight,Vegan,1600,70,180,50
+48,Female,168,75,Sedentary,Maintain weight,Vegan,1800,80,200,60
+35,Male,185,100,High,Build muscle,High protein,3000,160,350,90
+40,Male,178,88,Moderate,Build muscle,High protein,2600,140,280,80
+25,Male,180,85,Moderate,Lose weight,High protein,2200,120,200,60
+32,Female,165,68,Light,Build muscle,Vegan,2000,100,250,60
+55,Male,175,95,Sedentary,Maintain weight,High protein,2000,80,250,60
+28,Female,170,72,High,Lose weight,Vegan,1800,80,180,50
+62,Female,160,65,Light,Lose weight,Vegan,1600,60,150,40
+40,Male,185,90,Moderate,Build muscle,High protein,2500,150,300,80
+38,Female,172,78,Sedentary,Maintain weight,High protein,1800,80,200,60
+22,Male,190,105,High,Build muscle,Vegan,2800,130,350,90
+19,Female,168,55,Moderate,Lose weight,Vegan,1800,70,180,50
+45,Male,178,82,Light,Build muscle,High protein,2300,110,270,70
+25,Female,165,58,Light,Lose weight,High protein,1800,80,200,60
+32,Male,180,85,Moderate,Build muscle,High protein,2800,150,300,80
+58,Female,160,70,Sedentary,Lose weight,Vegan,1500,70,150,40
+65,Male,175,90,Light,Maintain weight,Vegan,2200,80,250,60
+42,Female,170,65,Moderate,Lose weight,Vegan,1900,70,220,50
+38,Male,185,95,High,Build muscle,High protein,3200,170,350,90
+28,Female,162,55,Sedentary,Lose weight,Vegan,1600,65,180,45
+62,Male,170,80,Moderate,Maintain weight,Vegan,2000,75,220,55
+21,Female,158,48,Light,Lose weight,High protein,1500,60,170,45
+55,Male,178,88,Sedentary,Maintain weight,Vegan,1900,70,200,55
+25,Male,180,80,Moderate,Lose weight,High protein,2000,120,180,50
+32,Female,165,65,Sedentary,Maintain weight,Vegan,1800,80,220,60
+55,Female,160,75,Light,Lose weight,Vegan,1600,70,150,40
+40,Male,190,95,High,Build muscle,High protein,3000,180,270,80
+62,Male,175,85,Sedentary,Maintain weight,High protein,2200,100,200,70
+28,Female,170,55,Moderate,Build muscle,Vegan,2400,110,240,70
+35,Male,185,110,High,Lose weight,High protein,2500,150,200,60
+22,Female,160,50,Light,Build muscle,Vegan,2200,100,220,60
+48,Male,180,90,Moderate,Lose weight,High protein,2100,130,170,50
+58,Female,155,60,Sedentary,Maintain weight,Vegan,1500,60,130,40
+25,Male,180,80,Moderate,Lose weight,High protein,2200,120,200,60
+32,Female,165,65,Light,Lose weight,Vegan,1800,80,180,50
+55,Male,175,95,Sedentary,Maintain weight,High protein,2400,100,250,70
+28,Female,170,72,High,Build muscle,Vegan,2600,130,280,70
+62,Female,160,60,Sedentary,Lose weight,Vegan,1600,60,150,40
+38,Male,190,105,Moderate,Build muscle,High protein,3000,160,300,90
+22,Female,168,58,Light,Maintain weight,Vegan,1900,70,200,60
+40,Male,178,85,High,Lose weight,Vegan,2400,120,220,60
+27,Female,172,68,Moderate,Lose weight,High protein,1900,90,180,50
+58,Male,182,100,Light,Maintain weight,Vegan,2200,80,200,60
+25,Male,180,80,Moderate,Lose weight,High protein,2200,120,250,60
+32,Female,165,65,Sedentary,Maintain weight,Vegan,1800,80,200,50
+58,Female,160,70,Light,Lose weight,Vegan,1600,70,180,40
+40,Male,190,95,High,Build muscle,High protein,3000,180,350,80
+62,Male,175,85,Light,Lose weight,Vegan,1800,80,200,50
+38,Female,170,75,Moderate,Maintain weight,Vegan,2000,80,220,60
+28,Male,185,90,High,Build muscle,High protein,3200,200,400,90
+55,Female,155,60,Sedentary,Lose weight,Vegan,1400,60,160,30
+70,Male,170,75,Light,Maintain weight,High protein,1800,80,200,50
+22,Female,168,55,Moderate,Lose weight,Vegan,1600,70,180,40
+25,Female,165,55,Moderate,Lose weight,High protein,1800,75,200,60
+32,Male,180,85,Light,Build muscle,High protein,2800,150,300,80
+58,Female,160,68,Sedentary,Lose weight,Vegan,1500,60,170,40
+40,Male,190,95,High,Build muscle,High protein,3500,200,400,100
+62,Female,155,50,Sedentary,Lose weight,Vegan,1400,50,150,30
+28,Male,175,70,Moderate,Maintain weight,High protein,2500,100,250,70
+65,Male,170,75,Light,Lose weight,High protein,1700,70,180,50
+35,Female,168,60,High,Build muscle,Vegan,2500,100,300,70
+48,Male,185,100,Moderate,Lose weight,High protein,2200,90,220,60
+22,Female,170,58,Light,Maintain weight,Vegan,2000,80,200,60
+25,Female,165,55,Moderate,Lose weight,High protein,1800,100,200,60
+38,Male,180,85,Light,Build muscle,High protein,2800,160,300,80
+55,Female,160,65,Sedentary,Lose weight,Vegan,1500,75,150,45
+62,Male,175,90,Moderate,Maintain weight,Vegan,2400,120,280,70
+28,Female,170,60,High,Build muscle,Vegan,2500,140,300,70
+42,Male,185,95,Light,Build muscle,High protein,2600,150,280,80
+58,Female,155,50,Sedentary,Lose weight,Vegan,1400,70,140,40
+33,Male,190,100,Moderate,Maintain weight,Vegan,2600,130,300,70
+21,Female,168,58,High,Build muscle,High protein,2400,130,280,70
+68,Male,170,75,Light,Lose weight,High protein,1800,90,180,50
+25,Male,180,80,Moderate,Lose weight,High protein,2200,120,250,60
+38,Female,165,65,Light,Maintain weight,Vegan,1800,80,200,50
+62,Male,175,90,Sedentary,Lose weight,High protein,1800,100,200,50
+45,Female,170,75,High,Build muscle,Vegan,2500,140,300,80
+58,Male,185,105,Moderate,Lose weight,High protein,2000,110,220,60
+22,Female,160,50,Light,Lose weight,Vegan,1600,70,180,40
+70,Female,155,55,Sedentary,Lose weight,Vegan,1400,70,160,40
+30,Male,190,95,High,Build muscle,High protein,3000,180,350,100
+42,Female,168,60,Moderate,Maintain weight,Vegan,1800,80,200,50
+55,Male,178,85,Sedentary,Lose weight,High protein,1800,100,200,50
+25,Female,165,58,Moderate,Lose weight,High protein,1800,100,200,60
+38,Male,180,85,Light,Maintain weight,Vegan,2500,120,300,80
+55,Female,160,70,Sedentary,Lose weight,Vegan,1500,80,150,50
+62,Male,175,95,Moderate,Maintain weight,High protein,2800,140,350,100
+28,Female,170,65,High,Build muscle,Vegan,2400,130,300,80
+32,Male,185,90,Light,Lose weight,High protein,2200,110,250,70
+58,Female,155,62,Sedentary,Lose weight,Vegan,1400,70,140,40
+40,Male,190,110,High,Build muscle,High protein,3200,160,400,120
+21,Female,168,55,Light,Maintain weight,Vegan,2000,90,220,60
+70,Male,170,75,Sedentary,Maintain weight,High protein,2000,100,250,70
+25,Male,180,80,Moderate,Build muscle,High protein,2800,180,350,80
+32,Female,165,65,Light,Lose weight,Vegan,1800,100,200,50
+58,Male,175,90,Sedentary,Lose weight,High protein,2000,120,250,60
+62,Female,160,70,Moderate,Maintain weight,Vegan,1900,90,220,60
+28,Male,190,100,High,Build muscle,High protein,3200,200,400,100
+45,Female,170,75,Light,Lose weight,Vegan,1600,80,180,40
+30,Male,185,95,Moderate,Build muscle,Vegan,2800,180,350,80
+65,Female,155,60,Sedentary,Maintain weight,High protein,1700,80,200,50
+22,Female,168,55,High,Build muscle,Vegan,2400,140,300,70
+50,Male,170,85,Light,Lose weight,Vegan,1900,100,220,60
+25,Male,180,80,Moderate,Lose weight,High protein,2000,150,250,60
+32,Female,165,60,Sedentary,Maintain weight,Vegan,1800,100,220,50
+55,Male,175,90,Light,Lose weight,High protein,1800,130,200,60
+28,Female,170,70,High,Build muscle,Vegan,2500,175,350,80
+40,Male,190,110,Moderate,Lose weight,High protein,2200,160,280,70
+62,Female,160,55,Sedentary,Maintain weight,Vegan,1500,80,180,40
+22,Male,185,95,High,Build muscle,High protein,3000,200,400,100
+38,Female,168,65,Light,Lose weight,Vegan,1600,100,200,50
+27,Female,172,75,Moderate,Maintain weight,Vegan,2000,120,250,60
+45,Male,180,100,High,Lose weight,High protein,2400,180,300,80
+32,Female,165,65,Light,Maintain weight,Vegan,1800,80,200,50
+55,Male,175,90,Sedentary,Lose weight,High protein,1800,100,200,50
+28,Female,170,70,High,Build muscle,Vegan,2500,150,300,70
+48,Female,160,60,Sedentary,Maintain weight,Vegan,1600,70,180,40
+62,Male,170,85,Light,Lose weight,High protein,1800,100,200,50
+22,Female,168,55,Moderate,Build muscle,Vegan,2200,120,250,60
+38,Male,185,100,High,Build muscle,High protein,3000,180,350,80
+21,Female,158,50,Moderate,Lose weight,Vegan,1800,80,200,50
+58,Female,163,75,Sedentary,Maintain weight,Vegan,1600,70,180,40
+25,Female,165,58,Light,Lose weight,High protein,1800,80,250,60
+38,Male,180,85,Moderate,Build muscle,High protein,2800,150,350,80
+62,Female,160,65,Sedentary,Lose weight,Vegan,1500,70,200,40
+28,Male,185,90,High,Build muscle,Vegan,3200,180,400,80
+45,Female,170,70,Light,Lose weight,Vegan,1700,75,220,50
+58,Male,175,80,Sedentary,Maintain weight,High protein,2200,100,280,60
+32,Female,168,62,Moderate,Build muscle,Vegan,2400,120,300,70
+70,Male,170,75,Light,Lose weight,Vegan,1600,70,210,40
+19,Female,163,55,High,Build muscle,High protein,2600,140,320,70
+55,Male,183,95,Sedentary,Maintain weight,Vegan,2000,90,250,50
+25,Male,180,80,Moderate,Lose weight,High protein,2000,120,250,60
+32,Female,165,65,Light,Lose weight,Vegan,1600,80,180,50
+55,Male,175,95,Sedentary,Maintain weight,Vegan,2200,100,300,70
+68,Female,160,70,Light,Lose weight,High protein,1400,70,150,40
+28,Male,185,90,High,Build muscle,High protein,3000,180,400,80
+38,Female,170,75,Moderate,Maintain weight,Vegan,1800,80,220,60
+58,Male,170,85,Sedentary,Maintain weight,High protein,2000,80,250,60
+42,Female,168,60,High,Build muscle,Vegan,2200,100,300,70
+21,Male,190,100,Moderate,Build muscle,Vegan,2800,140,350,90
+62,Female,155,55,Sedentary,Lose weight,Vegan,1200,60,120,30
+25,Male,180,80,Moderate,Lose weight,High protein,2000,120,250,60
+32,Female,165,65,Sedentary,Lose weight,Vegan,1600,80,200,40
+58,Male,175,95,Light,Maintain weight,Vegan,2200,100,300,65
+40,Female,170,72,Moderate,Build muscle,High protein,2500,150,350,80
+28,Male,185,90,High,Build muscle,Vegan,3000,180,400,90
+62,Female,160,60,Sedentary,Maintain weight,High protein,1800,80,220,50
+35,Male,190,100,High,Lose weight,Vegan,2400,140,300,70
+22,Female,168,55,Light,Lose weight,Vegan,1500,70,180,40
+55,Male,178,85,Sedentary,Maintain weight,High protein,2000,100,250,60
+48,Female,172,78,Moderate,Lose weight,Vegan,1800,90,220,50
+25,Male,180,85,Moderate,Lose weight,High protein,2200,120,250,60
+38,Female,165,68,Light,Maintain weight,Vegan,1800,80,200,50
+55,Male,175,95,Sedentary,Lose weight,Vegan,1800,80,200,50
+62,Female,160,70,Light,Lose weight,Vegan,1500,70,175,40
+28,Male,190,90,High,Build muscle,High protein,3000,160,350,80
+40,Female,170,75,Moderate,Build muscle,Vegan,2200,100,250,60
+58,Male,170,80,Sedentary,Lose weight,Vegan,1600,70,180,40
+65,Female,155,65,Light,Maintain weight,High protein,1500,60,175,40
+32,Male,185,100,High,Build muscle,High protein,3200,180,380,90
+45,Female,168,72,Moderate,Lose weight,Vegan,1700,70,190,45
+25,Male,180,80,Moderate,Lose weight,High protein,2200,140,250,70
+32,Female,165,65,Sedentary,Build muscle,Vegan,2000,120,200,60
+48,Male,175,95,High,Maintain weight,Vegan,2800,160,350,85
+55,Female,160,70,Light,Lose weight,High protein,1800,100,180,50
+28,Male,190,100,Moderate,Build muscle,High protein,3000,180,400,100
+62,Female,155,55,Sedentary,Maintain weight,Vegan,1600,80,160,40
+35,Male,170,75,High,Lose weight,Vegan,2400,130,300,70
+22,Female,168,58,Light,Build muscle,High protein,2200,120,250,60
+58,Male,178,85,Moderate,Lose weight,Vegan,2000,120,200,60
+40,Female,172,78,Sedentary,Maintain weight,High protein,1800,100,180,50
+25,Male,180,85,Moderate,Lose weight,High protein,2200,150,250,60
+32,Female,165,60,Light,Maintain weight,Vegan,1800,80,220,50
+55,Male,175,90,Sedentary,Lose weight,High protein,2000,120,200,55
+28,Female,170,70,High,Build muscle,Vegan,2400,160,300,70
+62,Female,160,65,Light,Lose weight,Vegan,1600,70,180,40
+38,Male,185,95,Moderate,Build muscle,High protein,2800,200,350,80
+21,Female,168,55,High,Maintain weight,Vegan,2000,100,250,60
+40,Male,190,110,Sedentary,Lose weight,High protein,2000,140,200,50
+23,Female,172,68,Moderate,Lose weight,Vegan,1800,100,200,50
+48,Male,178,80,Light,Lose weight,Vegan,1800,100,200,50
+25,Male,180,80,Moderate,Lose weight,High protein,2200,120,250,60
+32,Female,165,65,Light,Build muscle,Vegan,2000,100,200,70
+48,Male,175,95,High,Lose weight,High protein,2800,150,300,80
+55,Female,160,70,Sedentary,Maintain weight,Vegan,1800,80,220,50
+28,Male,190,90,Moderate,Build muscle,High protein,2800,160,350,100
+62,Male,170,85,Light,Lose weight,Vegan,1800,80,200,50
+35,Female,170,75,High,Build muscle,Vegan,2400,120,280,80
+22,Female,160,55,Sedentary,Lose weight,Vegan,1600,70,180,40
+40,Male,185,100,Moderate,Lose weight,High protein,2500,130,280,70
+29,Female,175,85,High,Build muscle,Vegan,2600,130,320,90
+25,Male,180,80,Moderate,Build muscle,High protein,3000,180,350,80
+38,Female,165,65,Light,Lose weight,Vegan,1800,100,200,50
+55,Male,175,90,Sedentary,Lose weight,High protein,2200,120,250,60
+62,Female,160,70,Moderate,Maintain weight,Vegan,2000,100,220,60
+28,Male,190,100,High,Build muscle,High protein,3500,200,400,100
+42,Female,170,75,Light,Lose weight,Vegan,1700,90,180,45
+68,Male,170,85,Sedentary,Maintain weight,High protein,2000,100,220,60
+22,Female,165,55,High,Build muscle,Vegan,2500,150,300,70
+35,Male,185,95,Moderate,Lose weight,High protein,2500,140,280,70
+58,Female,155,60,Sedentary,Maintain weight,Vegan,1800,80,200,50
+25,Female,165,55,Light,Lose weight,High protein,1800,100,200,60
+32,Male,180,80,Moderate,Build muscle,High protein,2800,180,350,80
+58,Female,160,70,Sedentary,Lose weight,Vegan,1500,80,150,50
+38,Male,190,95,High,Build muscle,High protein,3200,200,400,100
+22,Female,170,60,Light,Maintain weight,Vegan,2000,100,250,70
+65,Male,175,85,Sedentary,Lose weight,High protein,1700,90,180,60
+40,Female,168,65,Moderate,Build muscle,Vegan,2200,120,280,80
+28,Male,185,90,High,Build muscle,Vegan,3000,150,375,90
+52,Female,158,62,Sedentary,Lose weight,Vegan,1400,70,140,40
+35,Male,178,75,Moderate,Maintain weight,High protein,2500,130,300,80
+25,Male,180,80,Moderate,Lose weight,High protein,2200,120,250,60
+35,Female,165,65,Light,Maintain weight,Vegan,1800,80,200,50
+55,Female,160,70,Sedentary,Lose weight,Vegan,1500,70,180,40
+40,Male,190,95,High,Build muscle,High protein,3000,180,350,80
+28,Female,170,55,Light,Maintain weight,Vegan,1800,80,200,50
+62,Male,175,85,Moderate,Lose weight,High protein,2000,100,220,50
+32,Female,168,60,High,Build muscle,Vegan,2400,100,280,60
+21,Male,185,88,Sedentary,Lose weight,Vegan,1800,80,200,50
+48,Male,178,90,Moderate,Maintain weight,High protein,2400,120,280,70
+38,Female,172,75,Light,Lose weight,Vegan,1600,70,180,40
+25,Male,180,85,Moderate,Lose weight,High protein,2200,150,250,60
+38,Female,165,62,Light,Maintain weight,Vegan,1800,80,220,50
+55,Female,160,70,Sedentary,Lose weight,Vegan,1600,70,180,40
+28,Male,190,95,High,Build muscle,High protein,3000,200,350,80
+62,Male,175,80,Light,Maintain weight,High protein,2000,100,200,60
+32,Female,170,68,Moderate,Build muscle,Vegan,2200,120,280,60
+21,Female,168,55,Sedentary,Lose weight,Vegan,1500,60,160,40
+40,Male,185,90,High,Build muscle,High protein,3200,220,400,90
+27,Female,172,75,Moderate,Maintain weight,Vegan,1900,80,210,50
+19,Male,183,78,Light,Lose weight,High protein,2000,120,200,50
+25,Male,180,85,Moderate,Lose weight,High protein,2200,150,250,60
+32,Female,165,60,Light,Build muscle,Vegan,2000,120,200,50
+55,Male,175,90,Sedentary,Lose weight,High protein,1800,120,200,50
+68,Female,160,70,Sedentary,Maintain weight,Vegan,1600,80,180,40
+19,Male,167,79,Light,Gain weight,Low carb,2791,209,188,133
+55,Male,177,52,Sedentary,Gain weight,High protein,1976,138,232,55
+53,Male,162,101,Light,Gain weight,Vegan,2644,132,364,73
+45,Male,171,83,Sedentary,Gain weight,Keto,2320,145,46,173
+23,Male,174,60,Light,Gain weight,High protein,2456,172,289,68
+47,Male,184,63,High,Gain weight,High protein,3035,212,357,84
+58,Female,168,72,Moderate,Gain weight,High protein,2322,163,273,64
+23,Female,159,60,Light,Gain weight,Vegan,2125,106,292,59
+41,Male,172,74,Moderate,Gain weight,Low carb,2897,217,196,138
+56,Male,190,69,Moderate,Gain weight,High protein,2822,198,332,78
+35,Female,180,76,Moderate,Gain weight,Keto,2819,176,56,210
+32,Male,152,88,Light,Gain weight,High protein,2668,187,313,74
+31,Female,176,98,High,Gain weight,Low carb,3299,247,223,158
+26,Female,160,81,Moderate,Gain weight,Vegan,2723,136,374,76
+41,Female,159,65,Moderate,Gain weight,High protein,2213,155,260,61
+27,Male,190,68,Moderate,Gain weight,Vegan,2929,146,403,81
+42,Female,174,115,Light,Gain weight,Vegan,2788,139,383,77
+52,Male,167,91,Sedentary,Gain weight,Vegan,2374,119,326,66
+34,Male,182,70,Moderate,Gain weight,High protein,2972,208,349,83
+58,Female,177,73,Sedentary,Gain weight,Low carb,2020,152,136,97
+56,Male,170,110,Sedentary,Gain weight,Keto,2563,160,51,191
+21,Male,165,58,Sedentary,Gain weight,Vegan,2050,102,282,57
+26,Male,192,108,High,Gain weight,High protein,3400,238,400,94
+31,Female,179,73,Moderate,Gain weight,High protein,2767,194,325,77
+46,Female,178,105,Sedentary,Gain weight,High protein,2432,170,286,68
+55,Male,185,77,Moderate,Gain weight,High protein,2968,208,349,82
+32,Male,154,52,High,Gain weight,High protein,2570,180,302,71
+60,Female,176,75,Moderate,Gain weight,Low carb,2519,189,170,120
+33,Female,175,100,Light,Gain weight,High protein,2761,193,324,77
+45,Female,171,107,High,Gain weight,High protein,3400,238,400,94
+21,Male,175,91,High,Gain weight,High protein,3400,238,400,94
+52,Male,178,65,Light,Gain weight,High protein,2356,165,277,65
+46,Male,185,60,Sedentary,Gain weight,Keto,2060,129,41,153
+33,Male,160,100,Moderate,Gain weight,High protein,3174,222,373,88
+28,Male,174,48,High,Gain weight,High protein,2891,202,340,80
+36,Female,172,110,Sedentary,Gain weight,High protein,2435,170,286,68
+38,Male,153,54,Moderate,Gain weight,Vegan,2387,119,328,66
+21,Male,182,58,High,Gain weight,High protein,3027,212,356,84
+43,Male,157,79,Moderate,Gain weight,High protein,2660,186,313,74
+60,Female,182,114,Light,Gain weight,High protein,2889,202,339,80
+33,Female,161,98,Sedentary,Gain weight,Low carb,2329,175,157,111
+22,Female,145,106,Moderate,Gain weight,Vegan,2873,144,395,80
+52,Male,163,112,Light,Gain weight,Keto,2827,177,57,210
+41,Male,168,68,Light,Gain weight,Vegan,2401,120,330,67
+60,Male,185,86,High,Gain weight,High protein,3223,226,379,90
+25,Female,151,67,Light,Gain weight,Low carb,2229,167,150,106
+31,Female,161,112,Moderate,Gain weight,Keto,3039,190,61,226
+58,Male,177,83,Sedentary,Gain weight,High protein,2234,156,262,62
+28,Female,173,102,Moderate,Gain weight,High protein,3186,223,374,88
+52,Male,152,95,Moderate,Gain weight,High protein,2802,196,329,78
+37,Male,173,53,High,Gain weight,High protein,2752,193,323,76
+40,Male,185,100,High,Gain weight,Low carb,3400,255,230,162
+29,Male,176,51,Sedentary,Gain weight,Keto,2184,136,44,163
+60,Female,160,82,Sedentary,Gain weight,Low carb,1948,146,131,93
+48,Male,164,73,High,Gain weight,Vegan,2920,146,402,81
+32,Male,151,72,Light,Gain weight,High protein,2312,162,272,64
+40,Female,177,99,Moderate,Gain weight,Keto,2994,187,60,223
+25,Male,166,70,Moderate,Gain weight,Keto,2736,171,55,204
+56,Male,177,92,Moderate,Gain weight,High protein,3089,216,363,86
+42,Male,186,72,Light,Gain weight,Low carb,2527,190,171,121
+41,Male,177,56,High,Gain weight,Keto,2908,182,58,216
+60,Female,152,86,Moderate,Gain weight,Low carb,2394,180,162,114
+36,Female,180,64,Light,Gain weight,Low carb,2275,171,154,109
+57,Male,186,86,Light,Gain weight,Keto,2693,168,54,200
+31,Female,172,89,Moderate,Gain weight,Vegan,2830,142,389,79
+28,Female,150,84,Moderate,Gain weight,Low carb,2594,195,175,124
+33,Male,169,76,High,Gain weight,High protein,3088,216,363,86
+48,Male,189,57,Light,Gain weight,Keto,2452,153,49,183
+42,Male,181,99,Light,Gain weight,Low carb,2856,214,193,136
+45,Male,164,70,High,Gain weight,Low carb,2934,220,198,140
+53,Male,165,63,Light,Gain weight,Low carb,2317,174,156,111
+46,Female,177,102,High,Gain weight,Vegan,3253,163,447,90
+46,Female,161,79,High,Gain weight,High protein,2843,199,334,79
+58,Female,160,83,Light,Gain weight,Low carb,2176,163,147,104
+39,Female,165,58,Sedentary,Gain weight,High protein,1903,133,224,53
+31,Male,154,101,Light,Gain weight,Vegan,2832,142,389,79
+31,Male,176,97,High,Gain weight,Vegan,3400,170,468,94
+54,Male,174,109,Sedentary,Gain weight,High protein,2707,189,318,75
+44,Female,179,76,Moderate,Gain weight,High protein,2666,187,313,74
+42,Male,171,99,Moderate,Gain weight,Keto,3125,195,62,233
+43,Male,187,51,Sedentary,Gain weight,Vegan,2100,105,289,58
+21,Male,166,96,Light,Gain weight,Vegan,2915,146,401,81
+35,Female,171,80,High,Gain weight,Vegan,3055,153,420,85
+40,Male,164,56,Moderate,Gain weight,Low carb,2568,193,173,123
+33,Male,162,50,Moderate,Gain weight,High protein,2437,171,286,68
+54,Male,163,107,Moderate,Gain weight,Low carb,3089,232,209,148
+28,Male,169,61,Moderate,Gain weight,Keto,2740,171,55,204
+43,Female,157,57,Moderate,Gain weight,Keto,2104,132,42,157
+37,Male,188,63,Moderate,Gain weight,Vegan,2749,137,378,76
+52,Female,172,95,Sedentary,Gain weight,Low carb,2148,161,145,103
+49,Female,151,103,High,Gain weight,Low carb,3041,228,205,145
+45,Male,161,114,High,Gain weight,High protein,3400,238,400,94
+47,Female,172,82,Light,Gain weight,High protein,2303,161,271,64
+46,Female,160,107,Moderate,Gain weight,Low carb,2908,218,196,139
+49,Male,170,71,Moderate,Gain weight,High protein,2661,186,313,74
+35,Female,162,49,Moderate,Gain weight,High protein,2089,146,245,58
+49,Female,180,78,Moderate,Gain weight,Low carb,2668,200,180,127
+19,Female,150,85,Light,Gain weight,Low carb,2404,180,162,115
+48,Female,180,115,Light,Gain weight,Keto,2937,184,59,219
+40,Female,174,82,Light,Gain weight,High protein,2530,177,297,70
+38,Male,157,71,Light,Improve health,Low carb,2061,144,129,108
+24,Female,157,85,Light,Improve health,High protein,2055,139,221,68
+35,Male,152,54,Moderate,Improve health,Low carb,1998,140,125,104
+24,Female,145,84,Moderate,Improve health,Vegan,2238,101,319,62
+34,Male,180,62,High,Improve health,High protein,2664,180,286,89
+27,Male,159,86,Sedentary,Improve health,High protein,2130,144,229,71
+56,Female,159,114,Light,Improve health,Keto,2324,128,46,181
+37,Female,181,55,Moderate,Improve health,Low carb,2185,153,137,114
+58,Male,163,81,Moderate,Improve health,High protein,2357,159,253,79
+28,Male,150,100,Light,Improve health,Vegan,2472,111,352,69
+32,Male,168,84,Moderate,Improve health,Vegan,2784,125,397,77
+34,Male,190,73,Light,Improve health,Vegan,2495,112,356,69
+35,Male,159,57,Sedentary,Improve health,Low carb,1744,122,109,91
+46,Female,152,107,Moderate,Improve health,Low carb,2514,176,157,131
+46,Female,150,53,High,Improve health,Low carb,1931,135,121,101
+19,Female,150,77,High,Improve health,Keto,2571,141,51,200
+35,Male,186,53,Moderate,Improve health,High protein,2412,163,259,80
+35,Female,156,103,Moderate,Improve health,Vegan,2530,114,361,70
+40,Female,171,90,Light,Improve health,High protein,2172,147,233,72
+44,Female,176,84,Moderate,Improve health,High protein,2530,171,272,84
+47,Male,155,88,Light,Improve health,High protein,2343,158,252,78
+50,Female,145,107,Light,Improve health,High protein,2164,146,233,72
+58,Female,173,54,Light,Improve health,Vegan,1602,72,228,44
+49,Female,152,51,High,Improve health,Low carb,1799,126,112,94
+37,Male,185,49,Moderate,Improve health,High protein,2222,150,239,74
+25,Female,154,111,High,Improve health,High protein,2900,196,312,97
+44,Female,175,108,Light,Improve health,Vegan,2483,112,354,69
+56,Male,182,65,High,Improve health,High protein,2635,178,283,88
+50,Female,162,48,Light,Improve health,High protein,1557,105,167,52
+27,Female,173,109,Light,Improve health,Vegan,2637,119,376,73
+47,Female,165,72,High,Improve health,High protein,2356,159,253,79
+44,Male,152,88,Moderate,Improve health,Low carb,2520,176,158,132
+60,Female,154,111,High,Improve health,High protein,2851,192,306,95
+24,Female,173,60,Moderate,Improve health,Vegan,2274,102,324,63
+44,Male,191,67,Sedentary,Improve health,Low carb,1966,138,123,103
+57,Female,170,58,High,Improve health,Keto,2120,117,42,165
+38,Female,176,52,Moderate,Improve health,High protein,2062,139,222,69
+32,Female,150,103,High,Improve health,Low carb,2900,203,181,151
+46,Male,160,86,High,Improve health,High protein,2754,186,296,92
+40,Female,168,103,Sedentary,Improve health,Vegan,2127,96,303,59
+28,Male,161,58,Moderate,Improve health,High protein,2343,158,252,78
+49,Male,187,66,Light,Improve health,Low carb,2222,156,139,116
+60,Female,145,107,High,Improve health,Low carb,2574,180,161,134
+46,Male,172,86,Moderate,Improve health,Vegan,2634,119,375,73
+37,Female,157,97,High,Improve health,High protein,2786,188,299,93
+54,Female,163,85,Sedentary,Improve health,Keto,1746,96,35,136
+18,Female,181,54,High,Improve health,Low carb,2443,171,153,128
+56,Male,172,76,Moderate,Improve health,Low carb,2511,176,157,131
+58,Male,156,53,Light,Improve health,Vegan,1746,79,249,48
+26,Female,150,85,Light,Improve health,High protein,2029,137,218,68
+52,Male,173,115,Moderate,Improve health,High protein,2900,196,312,97
+48,Female,163,91,High,Improve health,Vegan,2574,116,367,72
+32,Male,175,94,Sedentary,Improve health,High protein,2242,151,241,75
+47,Male,173,81,Moderate,Improve health,Keto,2590,142,52,201
+32,Male,180,51,Moderate,Improve health,Keto,2297,126,46,179
+59,Male,154,107,High,Improve health,High protein,2900,196,312,97
+26,Male,152,52,Light,Improve health,Vegan,1793,81,256,50
+52,Male,158,97,Light,Improve health,Low carb,2451,172,153,128
+55,Female,154,101,Moderate,Improve health,Keto,2459,135,49,191
+35,Female,147,95,Light,Improve health,Vegan,2088,94,298,58
+24,Female,168,93,Sedentary,Improve health,High protein,1990,134,214,66
+23,Female,158,50,Sedentary,Improve health,High protein,1500,101,161,50
+22,Male,185,74,Moderate,Improve health,Low carb,2755,193,172,144
+27,Female,145,83,High,Improve health,High protein,2437,164,262,81
+29,Female,152,51,Sedentary,Improve health,High protein,1500,101,161,50
+19,Female,156,81,Sedentary,Improve health,Low carb,1889,132,118,99
+22,Male,180,105,Moderate,Improve health,Vegan,2900,130,413,81
+50,Female,159,53,Moderate,Improve health,Keto,1813,100,36,141
+47,Female,146,55,High,Improve health,Keto,1869,103,37,145
+49,Male,178,57,High,Improve health,High protein,2445,165,263,82
+26,Male,167,89,Light,Improve health,Vegan,2482,112,354,69
+50,Female,172,60,Moderate,Improve health,High protein,2046,138,220,68
+45,Male,178,77,Light,Improve health,Keto,2308,127,46,180
+24,Female,165,102,Light,Improve health,High protein,2393,162,257,80
+22,Female,150,58,Sedentary,Improve health,High protein,1605,108,173,54
+26,Female,180,55,Moderate,Improve health,Vegan,2149,97,306,60
+44,Male,172,102,High,Improve health,Low carb,2900,203,181,151
+40,Female,151,112,Light,Improve health,Low carb,2318,162,145,121
+40,Male,185,95,Sedentary,Improve health,High protein,2270,153,244,76
+53,Female,180,51,Moderate,Improve health,Low carb,1971,138,123,103
+19,Female,156,82,Moderate,Improve health,High protein,2391,161,257,80
+18,Female,156,66,Moderate,Improve health,High protein,2101,142,226,70
+23,Male,183,75,Light,Improve health,Vegan,2413,109,344,67
+37,Female,165,58,High,Improve health,High protein,2296,155,247,77
+23,Male,167,104,Moderate,Improve health,Vegan,2900,130,413,81
+35,Female,158,113,Sedentary,Improve health,Vegan,2130,96,304,59
+51,Female,164,53,Light,Improve health,Keto,1500,82,30,117
+31,Male,169,75,Moderate,Improve health,Low carb,2561,179,160,134
+25,Female,145,111,Moderate,Improve health,High protein,2699,182,290,90
+50,Male,185,93,Sedentary,Improve health,Keto,2140,118,43,166
+19,Female,174,57,High,Improve health,Vegan,2484,112,354,69
+58,Female,171,85,Sedentary,Improve health,High protein,1764,119,190,59
+57,Male,179,94,Sedentary,Improve health,Keto,2116,116,42,165
+55,Female,170,115,Sedentary,Improve health,Keto,2242,123,45,174
+32,Female,166,69,Sedentary,Improve health,Low carb,1743,122,109,91
+40,Male,172,66,Light,Improve health,High protein,2088,141,224,70
+56,Male,159,57,Sedentary,Improve health,Low carb,1592,111,100,83
+54,Female,182,105,Moderate,Improve health,Keto,2807,154,56,218
+58,Female,165,67,Light,Improve health,Vegan,1800,81,256,50
+35,Female,182,55,Light,Improve health,High protein,1896,128,204,63
